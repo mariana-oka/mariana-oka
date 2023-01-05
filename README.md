@@ -1,8 +1,8 @@
-### Hi there 👋
+### Hey there!👋
 
 <img src="https://res.cloudinary.com/dk9mn4cvz/image/upload/v1672940885/marianaOka-frontenddev_dozppm.png">
-👩🏻‍💻 I’m a front-end developer with years of product design experience who is passionate about emergent technologies, social impact and building products that empower people. My main tools are HTML, CSS, Javascript and React.
+👩🏻‍💻 Hey there! I'm a front-end developer with a twist - I've got 10 years of product design experience under my belt. I bring a unique perspective to the table, and I'm always looking for new and creative ways to solve problems. In my spare time, you can find me binge-watching sci-fi movies or trying out the latest and greatest art exhibits in town. Just a warning, I have been known to sneak a few emoji into my commit messages. I speak HTML, CSS, Javascript, React and Spanish.Thanks for stopping by!
 
-- 🔭 I’m currently working on deploying my bootcamp projects
+- 🔭 I’m currently working on deploying an intuitive NFT minting platform
 - 🌱 I’m currently learning about XR and Unity
 - ⚡ Fun fact: I am obsessed with generative art
