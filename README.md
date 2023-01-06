@@ -5,4 +5,5 @@
 
 - 🔭 I’m currently working on deploying an intuitive NFT minting platform
 - 🌱 I’m currently learning about XR and Unity
-- ⚡ Fun fact: I am obsessed with generative art
+- 📚 I’m currently reading Behave: The Biology of Humans at Our Best and Worst
+- ⚡ Fun fact I love generative art
